@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Anker",
+			"path": "Anker"
+		},
+		{
+			"name": "Tag",
+			"path": "Tag"
+		}
+	],
+	"settings": {}
+}
